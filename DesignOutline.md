@@ -18,4 +18,4 @@ Disengaging Mechanism Concept;
 -Cycles Render used
 -Custom material made for each part, based on characteristics of materials to be used in real life version.
 
-.blend files available on request
+.blend files available on request, as well as separate .blend with all materials.
