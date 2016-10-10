@@ -3,4 +3,4 @@ Concept design, of a disengaging rear bicycle hub, allowing for reduced friction
 
 Check the Youtube video of the process here!
 
-https://www.youtube.com/watch?v=VsWnVni74XY
+Part One; https://www.youtube.com/watch?v=VsWnVni74XY
